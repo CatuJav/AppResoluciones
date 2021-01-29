@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307977701793",
+    "project_id": "sistemaresoluciones-d281b",
+    "storage_bucket": "sistemaresoluciones-d281b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307977701793:android:b413ffd2bd877c5bdea3e0",
+        "android_client_info": {
+          "package_name": "com.example.fisei_administrativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307977701793-dt5f1u7ov6h7niemrjbb2atv6a9gqtut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fisei_administrativo",
+            "certificate_hash": "ca0a69d2d65d1c23223df5a3f3089a7c75f8e673"
+          }
+        },
+        {
+          "client_id": "307977701793-fe8cdcinq4cd568bcai2clmrjf6k6ntf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDnbh5_jpz2mN_sTu_SCqyGcdIFBFPJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307977701793-fe8cdcinq4cd568bcai2clmrjf6k6ntf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
